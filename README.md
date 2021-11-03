@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# COVID-19 TRACKER PROJECT
+
+This project was inspired by a ReactJS tutorial made by CleverProgrammer.
+
+The website allows the you to be up-to-date with all of the current COVID data through the use of an API from https://disease.sh/
+From here, you can keep track of the total amount of coronavirus cases, total deaths, as well as the number of recovered cases in any countries in the world. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
